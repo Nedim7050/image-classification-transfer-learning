@@ -1,21 +1,35 @@
 # 🖼️ Image Classification avec Transfer Learning
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)](https://streamlit.io/)
+
 Projet complet de classification d'images utilisant le transfer learning avec PyTorch et OpenCV. Ce projet inclut des outils pour l'exploration de données, l'entraînement de modèles, l'inférence et une interface web interactive avec Streamlit.
+
+## 👤 Auteur
+
+**Nedim Mejri**
+
+Ce projet a été développé dans le cadre de l'apprentissage et de l'application des techniques de deep learning pour la classification d'images.
 
 ## 📋 Table des Matières
 
-- [Fonctionnalités](#fonctionnalités)
-- [Structure du Projet](#structure-du-projet)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Datasets](#datasets)
-- [Entraînement](#entraînement)
-- [Inférence](#inférence)
-- [Application Streamlit](#application-streamlit)
-- [Conversion ONNX](#conversion-onnx)
-- [Fine-tuning Avancé](#fine-tuning-avancé)
-- [Mixed Precision Training](#mixed-precision-training)
-- [Dépannage](#dépannage)
+- [Auteur](#-auteur)
+- [Fonctionnalités](#-fonctionnalités)
+- [Structure du Projet](#-structure-du-projet)
+- [Installation](#-installation)
+- [Utilisation](#-utilisation)
+- [Datasets](#-datasets)
+- [Entraînement](#-entraînement)
+- [Inférence](#-inférence)
+- [Application Streamlit](#-application-streamlit)
+- [Conversion ONNX](#-conversion-onnx)
+- [Fine-tuning Avancé](#-fine-tuning-avancé)
+- [Mixed Precision Training](#-mixed-precision-training)
+- [Dépannage](#-dépannage)
+- [Contribution](#-contribution)
+- [Licence](#-licence)
 
 ## ✨ Fonctionnalités
 
@@ -452,6 +466,8 @@ Les contributions sont les bienvenues! N'hésitez pas à:
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
+**Copyright © 2024 Nedim Mejri**
 
 ## 🙏 Remerciements
 
